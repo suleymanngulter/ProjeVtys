@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\suleymangulter\\source\\repos\\AracSat\u0131mVeTeknikServis\\AracSat\u0131mVeTeknikServiss\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65058CC1-9CD0-4451-91F7-04CDD369E063}|AracSat\u0131mVeTeknikServis\\AracSat\u0131mVeTeknikServis.csproj|c:\\users\\suleymangulter\\source\\repos\\aracsat\u0131mveteknikservis\\aracsat\u0131mveteknikserviss\\aracsat\u0131mveteknikservis\\sqlbaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65058CC1-9CD0-4451-91F7-04CDD369E063}|AracSat\u0131mVeTeknikServis\\AracSat\u0131mVeTeknikServis.csproj|solutionrelative:aracsat\u0131mveteknikservis\\sqlbaglanti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65058CC1-9CD0-4451-91F7-04CDD369E063}|AracSat\u0131mVeTeknikServis\\AracSat\u0131mVeTeknikServis.csproj|C:\\Users\\suleymangulter\\source\\repos\\AracSat\u0131mVeTeknikServis\\AracSat\u0131mVeTeknikServiss\\aracsat\u0131mveteknikservis\\frmbackup-restore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65058CC1-9CD0-4451-91F7-04CDD369E063}|AracSat\u0131mVeTeknikServis\\AracSat\u0131mVeTeknikServis.csproj|solutionrelative:aracsat\u0131mveteknikservis\\frmbackup-restore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65058CC1-9CD0-4451-91F7-04CDD369E063}|AracSat\u0131mVeTeknikServis\\AracSat\u0131mVeTeknikServis.csproj|C:\\Users\\suleymangulter\\source\\repos\\AracSat\u0131mVeTeknikServis\\AracSat\u0131mVeTeknikServiss\\aracsat\u0131mveteknikservis\\frmbackup-restore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{65058CC1-9CD0-4451-91F7-04CDD369E063}|AracSat\u0131mVeTeknikServis\\AracSat\u0131mVeTeknikServis.csproj|solutionrelative:aracsat\u0131mveteknikservis\\frmbackup-restore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65058CC1-9CD0-4451-91F7-04CDD369E063}|AracSat\u0131mVeTeknikServis\\AracSat\u0131mVeTeknikServis.csproj|C:\\Users\\suleymangulter\\source\\repos\\AracSat\u0131mVeTeknikServis\\AracSat\u0131mVeTeknikServiss\\aracsat\u0131mveteknikservis\\frmsatis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65058CC1-9CD0-4451-91F7-04CDD369E063}|AracSat\u0131mVeTeknikServis\\AracSat\u0131mVeTeknikServis.csproj|solutionrelative:aracsat\u0131mveteknikservis\\frmsatis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65058CC1-9CD0-4451-91F7-04CDD369E063}|AracSat\u0131mVeTeknikServis\\AracSat\u0131mVeTeknikServis.csproj|C:\\Users\\suleymangulter\\source\\repos\\AracSat\u0131mVeTeknikServis\\AracSat\u0131mVeTeknikServiss\\aracsat\u0131mveteknikservis\\frmteknikservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65058CC1-9CD0-4451-91F7-04CDD369E063}|AracSat\u0131mVeTeknikServis\\AracSat\u0131mVeTeknikServis.csproj|solutionrelative:aracsat\u0131mveteknikservis\\frmteknikservis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sqlBaglanti.cs",
+              "DocumentMoniker": "C:\\Users\\suleymangulter\\source\\repos\\AracSat\u0131mVeTeknikServis\\AracSat\u0131mVeTeknikServiss\\AracSat\u0131mVeTeknikServis\\sqlBaglanti.cs",
+              "RelativeDocumentMoniker": "AracSat\u0131mVeTeknikServis\\sqlBaglanti.cs",
+              "ToolTip": "C:\\Users\\suleymangulter\\source\\repos\\AracSat\u0131mVeTeknikServis\\AracSat\u0131mVeTeknikServiss\\AracSat\u0131mVeTeknikServis\\sqlBaglanti.cs",
+              "RelativeToolTip": "AracSat\u0131mVeTeknikServis\\sqlBaglanti.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:57:35.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmBackUp-Restore.cs",
+              "DocumentMoniker": "C:\\Users\\suleymangulter\\source\\repos\\AracSat\u0131mVeTeknikServis\\AracSat\u0131mVeTeknikServiss\\AracSat\u0131mVeTeknikServis\\FrmBackUp-Restore.cs",
+              "RelativeDocumentMoniker": "AracSat\u0131mVeTeknikServis\\FrmBackUp-Restore.cs",
+              "ToolTip": "C:\\Users\\suleymangulter\\source\\repos\\AracSat\u0131mVeTeknikServis\\AracSat\u0131mVeTeknikServiss\\AracSat\u0131mVeTeknikServis\\FrmBackUp-Restore.cs",
+              "RelativeToolTip": "AracSat\u0131mVeTeknikServis\\FrmBackUp-Restore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T12:02:18.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmBackUp-Restore.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\suleymangulter\\source\\repos\\AracSat\u0131mVeTeknikServis\\AracSat\u0131mVeTeknikServiss\\AracSat\u0131mVeTeknikServis\\FrmBackUp-Restore.cs",
+              "RelativeDocumentMoniker": "AracSat\u0131mVeTeknikServis\\FrmBackUp-Restore.cs",
+              "ToolTip": "C:\\Users\\suleymangulter\\source\\repos\\AracSat\u0131mVeTeknikServis\\AracSat\u0131mVeTeknikServiss\\AracSat\u0131mVeTeknikServis\\FrmBackUp-Restore.cs [Design]",
+              "RelativeToolTip": "AracSat\u0131mVeTeknikServis\\FrmBackUp-Restore.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T12:02:14.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmSatis.cs",
+              "DocumentMoniker": "C:\\Users\\suleymangulter\\source\\repos\\AracSat\u0131mVeTeknikServis\\AracSat\u0131mVeTeknikServiss\\AracSat\u0131mVeTeknikServis\\FrmSatis.cs",
+              "RelativeDocumentMoniker": "AracSat\u0131mVeTeknikServis\\FrmSatis.cs",
+              "ToolTip": "C:\\Users\\suleymangulter\\source\\repos\\AracSat\u0131mVeTeknikServis\\AracSat\u0131mVeTeknikServiss\\AracSat\u0131mVeTeknikServis\\FrmSatis.cs",
+              "RelativeToolTip": "AracSat\u0131mVeTeknikServis\\FrmSatis.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T07:13:02.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmTeknikServis.cs",
+              "DocumentMoniker": "C:\\Users\\suleymangulter\\source\\repos\\AracSat\u0131mVeTeknikServis\\AracSat\u0131mVeTeknikServiss\\AracSat\u0131mVeTeknikServis\\FrmTeknikServis.cs",
+              "RelativeDocumentMoniker": "AracSat\u0131mVeTeknikServis\\FrmTeknikServis.cs",
+              "ToolTip": "C:\\Users\\suleymangulter\\source\\repos\\AracSat\u0131mVeTeknikServis\\AracSat\u0131mVeTeknikServiss\\AracSat\u0131mVeTeknikServis\\FrmTeknikServis.cs",
+              "RelativeToolTip": "AracSat\u0131mVeTeknikServis\\FrmTeknikServis.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAwwCgAAAA1AQAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T07:12:45.162Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

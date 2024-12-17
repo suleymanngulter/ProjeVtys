@@ -1,0 +1,100 @@
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis\AracSatımVeTeknikServis\bin\Debug\AracSatımVeTeknikServis.exe.config
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis\AracSatımVeTeknikServis\bin\Debug\AracSatımVeTeknikServis.exe
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis\AracSatımVeTeknikServis\bin\Debug\AracSatımVeTeknikServis.pdb
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis\AracSatımVeTeknikServis\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis\AracSatımVeTeknikServis\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.csproj.AssemblyReference.cache
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmGiris.resources
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.Properties.Resources.resources
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.csproj.GenerateResource.cache
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.csproj.CoreCompileInputs.cache
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis\AracSatımVeTeknikServis\obj\Debug\AracSat_.31906322.Up2Date
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.exe
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.pdb
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmPersonelPanel.resources
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmArac.resources
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmPersonel.resources
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis\AracSatımVeTeknikServis\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis\AracSatımVeTeknikServis\bin\Debug\itextsharp.dll
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis\AracSatımVeTeknikServis\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis\AracSatımVeTeknikServis\bin\Debug\itextsharp.xml
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmMusteris.resources
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmTeknikServis.resources
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmSatis.resources
+C:\Users\Abdulsamet KIR\Downloads\AracSatımVeTeknikServis\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\bin\Debug\AracSatımVeTeknikServis.exe.config
+C:\Users\Abdulsamet KIR\Downloads\AracSatımVeTeknikServis\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\bin\Debug\AracSatımVeTeknikServis.exe
+C:\Users\Abdulsamet KIR\Downloads\AracSatımVeTeknikServis\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\bin\Debug\AracSatımVeTeknikServis.pdb
+C:\Users\Abdulsamet KIR\Downloads\AracSatımVeTeknikServis\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Abdulsamet KIR\Downloads\AracSatımVeTeknikServis\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\bin\Debug\itextsharp.dll
+C:\Users\Abdulsamet KIR\Downloads\AracSatımVeTeknikServis\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Abdulsamet KIR\Downloads\AracSatımVeTeknikServis\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Abdulsamet KIR\Downloads\AracSatımVeTeknikServis\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\bin\Debug\itextsharp.xml
+C:\Users\Abdulsamet KIR\Downloads\AracSatımVeTeknikServis\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Abdulsamet KIR\Downloads\AracSatımVeTeknikServis\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.csproj.AssemblyReference.cache
+C:\Users\Abdulsamet KIR\Downloads\AracSatımVeTeknikServis\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmArac.resources
+C:\Users\Abdulsamet KIR\Downloads\AracSatımVeTeknikServis\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmGiris.resources
+C:\Users\Abdulsamet KIR\Downloads\AracSatımVeTeknikServis\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmMusteris.resources
+C:\Users\Abdulsamet KIR\Downloads\AracSatımVeTeknikServis\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmPersonel.resources
+C:\Users\Abdulsamet KIR\Downloads\AracSatımVeTeknikServis\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmPersonelPanel.resources
+C:\Users\Abdulsamet KIR\Downloads\AracSatımVeTeknikServis\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmSatis.resources
+C:\Users\Abdulsamet KIR\Downloads\AracSatımVeTeknikServis\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmTeknikServis.resources
+C:\Users\Abdulsamet KIR\Downloads\AracSatımVeTeknikServis\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.Properties.Resources.resources
+C:\Users\Abdulsamet KIR\Downloads\AracSatımVeTeknikServis\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.csproj.GenerateResource.cache
+C:\Users\Abdulsamet KIR\Downloads\AracSatımVeTeknikServis\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.csproj.CoreCompileInputs.cache
+C:\Users\Abdulsamet KIR\Downloads\AracSatımVeTeknikServis\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSat_.31906322.Up2Date
+C:\Users\Abdulsamet KIR\Downloads\AracSatımVeTeknikServis\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.exe
+C:\Users\Abdulsamet KIR\Downloads\AracSatımVeTeknikServis\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.pdb
+C:\Users\Abdulsamet KIR\Downloads\AracSatımVeTeknikServis\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmLoglama.resources
+C:\Users\Abdulsamet KIR\Downloads\AracSatımVeTeknikServis\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmSilinenler.resources
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\bin\Debug\AracSatımVeTeknikServis.exe.config
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\bin\Debug\AracSatımVeTeknikServis.exe
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\bin\Debug\AracSatımVeTeknikServis.pdb
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\bin\Debug\itextsharp.dll
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\bin\Debug\itextsharp.xml
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.csproj.AssemblyReference.cache
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmArac.resources
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmGiris.resources
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmLoglama.resources
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmMusteris.resources
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmPersonel.resources
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmPersonelPanel.resources
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmSatis.resources
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmSilinenler.resources
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmTeknikServis.resources
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.Properties.Resources.resources
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.csproj.GenerateResource.cache
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.csproj.CoreCompileInputs.cache
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSat_.31906322.Up2Date
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.exe
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.pdb
+C:\Users\Acer-Pc\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmBackUp_Restore.resources
+C:\Users\suleymangulter\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\bin\Debug\AracSatımVeTeknikServis.exe.config
+C:\Users\suleymangulter\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\bin\Debug\AracSatımVeTeknikServis.exe
+C:\Users\suleymangulter\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\bin\Debug\AracSatımVeTeknikServis.pdb
+C:\Users\suleymangulter\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\suleymangulter\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\bin\Debug\itextsharp.dll
+C:\Users\suleymangulter\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\bin\Debug\System.Data.SqlClient.dll
+C:\Users\suleymangulter\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\suleymangulter\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\bin\Debug\itextsharp.xml
+C:\Users\suleymangulter\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\bin\Debug\System.Data.SqlClient.xml
+C:\Users\suleymangulter\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.csproj.AssemblyReference.cache
+C:\Users\suleymangulter\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmArac.resources
+C:\Users\suleymangulter\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmBackUp_Restore.resources
+C:\Users\suleymangulter\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmGiris.resources
+C:\Users\suleymangulter\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmLoglama.resources
+C:\Users\suleymangulter\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmMusteris.resources
+C:\Users\suleymangulter\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmPersonel.resources
+C:\Users\suleymangulter\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmPersonelPanel.resources
+C:\Users\suleymangulter\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmSatis.resources
+C:\Users\suleymangulter\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmSilinenler.resources
+C:\Users\suleymangulter\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.FrmTeknikServis.resources
+C:\Users\suleymangulter\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.Properties.Resources.resources
+C:\Users\suleymangulter\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.csproj.GenerateResource.cache
+C:\Users\suleymangulter\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.csproj.CoreCompileInputs.cache
+C:\Users\suleymangulter\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatı.31906322.Up2Date
+C:\Users\suleymangulter\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.exe
+C:\Users\suleymangulter\Desktop\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis - Kopya\AracSatımVeTeknikServis\obj\Debug\AracSatımVeTeknikServis.pdb

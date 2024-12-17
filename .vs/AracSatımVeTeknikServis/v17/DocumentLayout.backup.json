@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Acer-Pc\\Desktop\\AracSat\u0131mVeTeknikServis - Kopya\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65058CC1-9CD0-4451-91F7-04CDD369E063}|AracSat\u0131mVeTeknikServis\\AracSat\u0131mVeTeknikServis.csproj|c:\\users\\acer-pc\\desktop\\aracsat\u0131mveteknikservis - kopya\\aracsat\u0131mveteknikservis\\frmarac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65058CC1-9CD0-4451-91F7-04CDD369E063}|AracSat\u0131mVeTeknikServis\\AracSat\u0131mVeTeknikServis.csproj|solutionrelative:aracsat\u0131mveteknikservis\\frmarac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65058CC1-9CD0-4451-91F7-04CDD369E063}|AracSat\u0131mVeTeknikServis\\AracSat\u0131mVeTeknikServis.csproj|c:\\users\\acer-pc\\desktop\\aracsat\u0131mveteknikservis - kopya\\aracsat\u0131mveteknikservis\\frmarac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{65058CC1-9CD0-4451-91F7-04CDD369E063}|AracSat\u0131mVeTeknikServis\\AracSat\u0131mVeTeknikServis.csproj|solutionrelative:aracsat\u0131mveteknikservis\\frmarac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65058CC1-9CD0-4451-91F7-04CDD369E063}|AracSat\u0131mVeTeknikServis\\AracSat\u0131mVeTeknikServis.csproj|C:\\Users\\Acer-Pc\\Desktop\\AracSat\u0131mVeTeknikServis - Kopya\\aracsat\u0131mveteknikservis\\frmpersonelpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{65058CC1-9CD0-4451-91F7-04CDD369E063}|AracSat\u0131mVeTeknikServis\\AracSat\u0131mVeTeknikServis.csproj|solutionrelative:aracsat\u0131mveteknikservis\\frmpersonelpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmArac.cs",
+              "DocumentMoniker": "C:\\Users\\Acer-Pc\\Desktop\\AracSat\u0131mVeTeknikServis - Kopya\\AracSat\u0131mVeTeknikServis\\FrmArac.cs",
+              "RelativeDocumentMoniker": "AracSat\u0131mVeTeknikServis\\FrmArac.cs",
+              "ToolTip": "C:\\Users\\Acer-Pc\\Desktop\\AracSat\u0131mVeTeknikServis - Kopya\\AracSat\u0131mVeTeknikServis\\FrmArac.cs",
+              "RelativeToolTip": "AracSat\u0131mVeTeknikServis\\FrmArac.cs",
+              "ViewState": "AgIAAGcBAAAAAAAAAAAswHsBAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:01:57.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmArac.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Acer-Pc\\Desktop\\AracSat\u0131mVeTeknikServis - Kopya\\AracSat\u0131mVeTeknikServis\\FrmArac.cs",
+              "RelativeDocumentMoniker": "AracSat\u0131mVeTeknikServis\\FrmArac.cs",
+              "ToolTip": "C:\\Users\\Acer-Pc\\Desktop\\AracSat\u0131mVeTeknikServis - Kopya\\AracSat\u0131mVeTeknikServis\\FrmArac.cs [Tasar\u0131m]",
+              "RelativeToolTip": "AracSat\u0131mVeTeknikServis\\FrmArac.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T14:00:53.003Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmPersonelPanel.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Acer-Pc\\Desktop\\AracSat\u0131mVeTeknikServis - Kopya\\AracSat\u0131mVeTeknikServis\\FrmPersonelPanel.cs",
+              "RelativeDocumentMoniker": "AracSat\u0131mVeTeknikServis\\FrmPersonelPanel.cs",
+              "ToolTip": "C:\\Users\\Acer-Pc\\Desktop\\AracSat\u0131mVeTeknikServis - Kopya\\AracSat\u0131mVeTeknikServis\\FrmPersonelPanel.cs [Tasar\u0131m]",
+              "RelativeToolTip": "AracSat\u0131mVeTeknikServis\\FrmPersonelPanel.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T09:41:39.148Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
